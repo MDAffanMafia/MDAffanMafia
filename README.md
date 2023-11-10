@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **MindShift**
 
-- 🌱 I’m currently learning **Machine Learning,Django,Flask**
+- 🌱 I’m currently learning **Machine Learning, Django, Flask**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MDAffanMafia](https://github.com/MDAffanMafia)
 
